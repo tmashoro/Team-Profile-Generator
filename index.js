@@ -1,5 +1,6 @@
 // Dependencies
-const inquirer = require('inquirer');
+var inquirer = require('inquirer');
+const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const jest = require('jest');
