@@ -6,6 +6,10 @@
 
 It is a Node.js command-line application that takes in information about employees at a software engineering team and generates an HTML webpage that displays summaries for each person
 
+## Video Link
+
+[Video Link](https://drive.google.com/file/d/1tcYRwgNn6Oof1UbxsLI63O2Kt-DKZ6Lz/view)
+
 ## Table of Contents
 
 * [Installations](#dependencies)
